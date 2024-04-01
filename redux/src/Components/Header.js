@@ -14,7 +14,7 @@ function Header() {
                     <Nav className="me-auto">
                     <Nav.Link href="#home">Home</Nav.Link>
                     </Nav>
-                    <Badge badgeContent={4} color="primary">
+                    <Badge badgeContent={1} color="primary">
                     <i class="fa-solid fa-cart-shopping"></i>
                     </Badge>
                     
