@@ -52,7 +52,7 @@ function Header() {
                     <div className='card_details d-flex justify-content-center align-items-center'style={{width:'380px',padding:'10px',position:'relative'}}>
                     <i className="fas fa-close smallclose" style={{position:'absolute', top:2,right:50,fontSize:23,cursor:'pointer'}} onClick={handleClose}></i>
                     <p>Your Cart is Empty</p>
-                    <img src='./images/cartgif.gif' style={{width:'80px', padding:'8px'}}></img>
+                    <img src='./images/cart.gif' style={{width:'80px', padding:'8px'}}></img>
                     </div>
                 </Menu>
             </Navbar>
